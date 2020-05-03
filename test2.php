@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <input type="checkbox" name="n" class="cc" id="">
+    <input type="checkbox" name="m" class="cc" id="">
 
 </body>
 </html>
