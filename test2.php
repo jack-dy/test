@@ -6,6 +6,11 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
     <input type="checkbox" name="n" id="">
+=======
+    <input type="checkbox" name="n" class="cc" id="">
+
+>>>>>>> cc
 </body>
 </html>
